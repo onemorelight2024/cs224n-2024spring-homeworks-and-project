@@ -1,0 +1,8 @@
+*.pt
+*.pth
+*.params
+bert-base-uncased/
+*.npy
+*.out
+__pycache__/
+*:Zone.Identifier
